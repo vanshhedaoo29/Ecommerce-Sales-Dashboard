@@ -26,6 +26,7 @@ This repository contains an interactive **E-commerce Sales Dashboard** built usi
 ## 📊 Features  
 - **Sales Overview** – Track total revenue, orders, and sales trends.  
 - **Sales Performance Analysis** – Check sales performance **quarterly** and **state-wise** for better decision-making.
+
 - **Customer Insights** – Analyze customer demographics and purchasing behavior.  
 - **Product Performance** – Identify top-selling products and categories.  
 - **Regional Analysis** – Visualize sales distribution across different locations.  
