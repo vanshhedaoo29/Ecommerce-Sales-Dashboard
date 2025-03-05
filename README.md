@@ -1,5 +1,7 @@
 # E-commerce Sales Dashboard 
 
+ This task was part of the **Power BI Workshop** conducted on **3 March 2025** by **Mr. Prafull Manekar Sir**, Founder of **Soham Global**.  
+
 ## 📌 Overview  
 This repository contains an interactive **E-commerce Sales Dashboard** built using **Power BI**, designed to provide key insights into sales performance, customer behavior, and business trends. The dashboard allows users to visualize and analyze sales data efficiently.
 
